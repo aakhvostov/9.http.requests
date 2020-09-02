@@ -1,0 +1,20 @@
+# Проверка включения света в ванной выключателем или датчиком
+bathroom_switch:
+    name: Проверка включения света выключателем
+    initial: off
+    icon: mdi:water
+
+# Проверка кубика
+cube_test:
+    name: Кубик
+    icon: mdi:cube-send
+
+#daily_vacuum_first_run:
+#    name: Daily Vacuum First Run
+#    initial: off
+#disable_daily_vacuum:
+#    name: Disable Daily Vacuum Automation
+#    initial: on
+#disable_dustbin_notification:
+#    name: Disable Dustbin Notification
+#    initial: off

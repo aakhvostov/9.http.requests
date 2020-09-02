@@ -1,0 +1,16 @@
+vacuum_room:
+  name: Choose a room to clean
+  options:
+    - Select Input
+    - All Except Bedroom and Ensuite
+    - Bedroom
+    - Dining Room
+    - Ensuite Bathroom
+    - Entryway
+    - Kitchen
+    - Living Room
+    - Main Bathroom
+    - Mopping Surfaces
+    - Projector Room
+    - Study
+  initial: Select Input
